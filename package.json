@@ -2,7 +2,7 @@
   "name": "kitchen-timer",
   "version": "0.0.1",
   "description": "A kitchen-timer npm",
-  "main": "index.js",
+  "main": "lib/main.js",
   "scripts": {
     "test": "test.js"
   },
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/watilde/kitchen-timer",
   "dependencies": {
     "baudio": "^2.1.2",
+    "forever": "^0.13.0",
     "yargs": "^1.3.3"
   }
 }

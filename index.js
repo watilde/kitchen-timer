@@ -1,5 +1,6 @@
 var yargs = require('yargs');
 var baudio = require('baudio');
+var foever = require('forever');
 
 console.log(yargs);
 

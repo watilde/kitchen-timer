@@ -6,6 +6,9 @@
   "scripts": {
     "test": "test.js"
   },
+  "bin": {
+    "kitchen-timer": "./bin/kitchen-timer.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/watilde/kitchen-timer.git"

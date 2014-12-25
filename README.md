@@ -1,7 +1,7 @@
 kitchen-timer
 =============
 
-A kitchen-timer npm
+A kitchen-timer has cli with npm
 
 ## Install
 Easy to install

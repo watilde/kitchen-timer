@@ -1,7 +1,7 @@
 {
   "name": "kitchen-timer",
   "version": "0.1.0",
-  "description": "A kitchen-timer npm",
+  "description": "A kitchen-timer has cli with npm",
   "main": "lib/main.js",
   "scripts": {
     "test": "test.js"
